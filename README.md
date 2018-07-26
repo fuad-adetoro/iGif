@@ -1,0 +1,1 @@
+iGif is from chapter 17 of RayWenderlich's RxSwift book. In this chapter I extended URLSession to use RX, created a custom wrapper, created custom operators, and tested the custom wrapper using RxBlocking and Nimble.
